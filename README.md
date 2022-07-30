@@ -42,7 +42,7 @@ Deply Mariya form Heroku
 -   [Video Tutorial for Zero Two Deployment]
 -   Pls check ["Zero Two Guides"]
 
-## 🗏 All features of this repository (https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+## 🗏 All features of this repository https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md
 
 -   To view all features
 
