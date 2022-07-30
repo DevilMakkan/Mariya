@@ -16,7 +16,7 @@ A Fully Modular, fast and Efficient Bot. <br>
 Deply Mariya form Heroku
 
 
-<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FantoX001/Mariya)
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DevilMakkan/Mariya)
 <br/><br/>
 
 
