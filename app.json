@@ -1,6 +1,6 @@
 {
     
-  "name": "Zerotwo",
+  "name": "Mariya",
   "description": "A WhatsApp Bot With Rich Anime Features based on Chitoge.",
   "keywords": [
       "bot",
@@ -13,7 +13,7 @@
       "whatsapp-botto"
   ],
   "website": "https://github.com/FantoX001/Zero-Two#readme",
-  "repository": "https://github.com/FantoX001/Zero-Two.git",
+  "repository": "https://github.com/FantoX001/Mariya.git",
   "logo": "https://wallpapercave.com/wp/wp8830706.png",
   "success_url": "/",
   "env": {
