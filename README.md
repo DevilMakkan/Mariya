@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/6P3BsqY"><img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" border="0"></a>
 
-# **Zero Two BOT**
+# ** MARIYA **
 #### **Advanced WhatsApp Bot With Rich Anime Features Designed by [FantoX](https://github.com/FantoX001) and based on Chitoge, Void and Yotsuba Botto**
 
 
@@ -50,5 +50,5 @@ Deply Mariya form Heroku
 
 ## 💓 Owner Credits:
 
--   insta - vander_shift_
+-- vander_shift_
 
