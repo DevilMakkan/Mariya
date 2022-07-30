@@ -13,20 +13,20 @@ A Fully Modular, fast and Efficient Bot. <br>
     
     
 <br/>   
-Deply Zero Two form Heroku
+Deply Mariya form Heroku
 
 
-<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FantoX001/Zero-Two)
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FantoX001/Mariya)
 <br/><br/>
 
 
 <br></div>
-## 🧣 Zero Two Deployment   
-✨ Follow this [Tutorial](https://youtu.be/KVrt3iKO4L0) for Zero Two's error free self hosting.
+## 🧣 Mariya Deployment   
+✨ Follow this [Tutorial] for Mariya error free self hosting.
     
 
 <br></div>
-## 🦋 Highlights of Zero Two Bot
+## 🦋 Highlights of Mariya Bot
 
 -   Fully Modular Design
 -   Object Oriented
@@ -39,20 +39,16 @@ Deply Zero Two form Heroku
 
 ## 💻 How to deploy/host Zero Two
 
--   [Video Tutorial for Zero Two Deployment](https://youtu.be/KVrt3iKO4L0)
--   Pls check ["Zero Two Guides"](https://github.com/FantoX001/Akeno-Guides/blob/main/README.md) for error free hosting/deployment.
-
+-   [Video Tutorial for Zero Two Deployment]
+-   Pls check ["Zero Two Guides"]
 
 ## 🗏 All features of this repository
 
--   To view all features, click [Features List of Kaoi](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+-   To view all features
 
 
 
 ## 💓 Owner Credits:
 
--   Adiwajshing sir for [Baileys](https://github.com/adiwajshing/baileys)
--   ShineiIchijo for [Chitoge](https://github.com/ShinNouzen/Chitoge)
--   Whatup394 for [Yousuba](https://github.com/Whatup364/Yotsuba-Bot)
-
+-   insta - vander_shift_
 
